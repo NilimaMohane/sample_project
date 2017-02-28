@@ -1,0 +1,6 @@
+c:\users\nmohane\documents\visual studio 2015\Projects\TriFibonacci\TriFibonacci\bin\Debug\TriFibonacci.exe.config
+c:\users\nmohane\documents\visual studio 2015\Projects\TriFibonacci\TriFibonacci\bin\Debug\TriFibonacci.exe
+c:\users\nmohane\documents\visual studio 2015\Projects\TriFibonacci\TriFibonacci\bin\Debug\TriFibonacci.pdb
+c:\users\nmohane\documents\visual studio 2015\Projects\TriFibonacci\TriFibonacci\obj\Debug\TriFibonacci.exe
+c:\users\nmohane\documents\visual studio 2015\Projects\TriFibonacci\TriFibonacci\obj\Debug\TriFibonacci.pdb
+c:\users\nmohane\documents\visual studio 2015\Projects\TriFibonacci\TriFibonacci\obj\Debug\TriFibonacci.csprojResolveAssemblyReference.cache
